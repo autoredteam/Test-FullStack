@@ -73,6 +73,6 @@ y así evitar que exista duplicidad de contratos y posibles estafas.
 - Código legible y buenas prácticas de programación.
 - Utilización de ES6 y Arrow Function.
 - Test unitarios. **(Bonus)**
-- Escribe tu codigo [acá](codigo.js)
+- Escribe tu código [acá](codigo.js)
 
 
