@@ -61,7 +61,7 @@ y así evitar que exista duplicidad de contratos y posibles estafas.
 - Una patente válida tiene las siguientes características:
     * AAAA00 => **4 letras y 2 números**.
     * AA0000 => **2 letras y 4 números**.
-    * AAA00   => **3 letras y 2 números**.
+    
 #### Requisitos mínimos:
 
 - Crear una función para listar todas las transferencias de un usuario mediante su correo.
