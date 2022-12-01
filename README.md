@@ -13,7 +13,7 @@ Por medio de este test se evaluarán algunos de tus conocimientos que nos intere
     - Agrega al usuario autoredteam como colaborador dentro del repositorio
     - Desarrollar lo que se indica
     - Adjuntar imagenes (Ejercicio 1.1), código (Ejercicio 1.2) y documentos necesarios para revisar el test.
-    - Notificar mediante email cuando este listo y enviar el link del repositorio privado.
+    - Notificar mediante email a dventura@autored.cl cuando este listo y enviar el link del repositorio privado.
 
 
 ## Ejercicio 1 - Modelado de datos y consultas SQL
